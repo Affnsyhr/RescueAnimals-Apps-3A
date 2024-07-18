@@ -29,7 +29,13 @@ git push origin nama-branch
 ```
 
 ## The View Inside 
-![1](https://github.com/user-attachments/assets/a2e0e5f1-7b3e-475a-8790-4dcb31e82f74)
-![2](https://github.com/user-attachments/assets/4b199241-3070-439d-a65c-7d8395fa0ad6)
-![3](https://github.com/user-attachments/assets/7cef8ce1-0d7b-4df0-8c60-7c09f1726e45)
-
+![1](https://github.com/user-attachments/assets/6eb78a13-478f-43c6-90aa-5f0d0ea8874a)
+![2](https://github.com/user-attachments/assets/db12a173-15eb-40e2-99fd-5e2ec3c98bbd)
+![3](https://github.com/user-attachments/assets/b15bb899-8ea1-479a-9dc5-7973c998129e)
+![4](https://github.com/user-attachments/assets/5e069703-0b98-459c-bcee-6c21177ccc80)
+![5](https://github.com/user-attachments/assets/ed66030b-b0a5-4489-9edc-c7d776106d0a)
+![6](https://github.com/user-attachments/assets/37edddd4-00a4-499f-a746-485f39c4709d)
+![7](https://github.com/user-attachments/assets/c273f0a2-f0f6-44ee-b2a7-bd5dec89b1f8)
+![8](https://github.com/user-attachments/assets/4bf1f843-35f9-4227-924b-eec5800391a7)
+![9](https://github.com/user-attachments/assets/1df92782-f53e-44d4-b433-ac41db97cfe5)
+![10](https://github.com/user-attachments/assets/8e98f687-b53c-4cec-95af-755f6441b9a6)
