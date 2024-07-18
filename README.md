@@ -1,16 +1,35 @@
-# rescue_animals_3a
+# RescueAnimals-Apps-3A
 
-A new Flutter project.
 
-## Getting Started
+## Steps for those who collaborate to upload
 
-This project is a starting point for a Flutter application.
+1. Git Clone 
+```bash
+git clone https://github.com/Affnsyhr/RescueAnimals-Apps-3A.git
+```
+2. Go to The Folder Project
+```bash
+cd RescueAnimals-Apps-3A
+```
+3. Create new branch 
+```bash
+git checkout -b nama-branch
+```
+4. Do the changes for the code 
+```bash
+git add .
+```
+5. Submit the code
+```bash
+git commit -m "Deskripsi perubahan yang Anda lakukan"
+```
+6. Submit the code to github
+```bash
+git push origin nama-branch
+```
 
-A few resources to get you started if this is your first Flutter project:
+## The View Inside 
+![1](https://github.com/user-attachments/assets/a2e0e5f1-7b3e-475a-8790-4dcb31e82f74)
+![2](https://github.com/user-attachments/assets/4b199241-3070-439d-a65c-7d8395fa0ad6)
+![3](https://github.com/user-attachments/assets/7cef8ce1-0d7b-4df0-8c60-7c09f1726e45)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
